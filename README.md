@@ -1,0 +1,2 @@
+# HospitalManagementSystem_database
+HospitalManagentSystem project linked to mySQL database
